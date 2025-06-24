@@ -1,0 +1,121 @@
+Using device: cpu
+Starting training...
+Epoch 1:  62%|██████▎   | 5/8 [00:36<00:19,  6.38s/it, loss=3.36]
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1002.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\A\A100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1003.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Z\Z1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\T\T100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Z\Z10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\O\O1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\R\R1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\D\D1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Q\Q10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1004.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1005.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\H\H1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V1.jpg
+[Train] Epoch 1, Avg Loss: 3.3714
+now in eval mode
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\B\B100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\P\P10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1006.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\G\G100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\D\D10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1002.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1000.jpg
+[Val] Epoch 1, Accuracy: 0.00%
+Sample Predictions vs Labels:
+Pred: [16, 16, 16, 16, 16]
+True : [3, 7, 8, 10, 4]
+Epoch 2:  75%|███████▌  | 6/8 [00:23<00:07,  3.89s/it, loss=3.35]
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1003.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\O\O1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Q\Q10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Z\Z10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\U\U100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\Z\Z1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\T\T100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1002.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\D\D1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\N\N10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1004.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\R\R1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\A\A100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\H\H1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1001.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\X\X1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1005.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\E\E1.jpg
+[Train] Epoch 2, Avg Loss: 3.3562
+now in eval mode
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\G\G100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\V\V10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\nothing\nothing1006.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\M\M1000.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\C\C10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\B\B100.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\del\del1002.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\P\P10.jpg
+[INFO:] No hand landmarks found in D:\Downloads\ASL\asl_alphabet_train\asl_alphabet_train\D\D10.jpg
+[Val] Epoch 2, Accuracy: 0.00%
+Sample Predictions vs Labels:
+Pred: [16, 16, 16, 16, 16]
+True : [4, 12, 17, 14, 4]
+Model saved: asl_lstm.pth
