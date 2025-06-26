@@ -1,3 +1,4 @@
+<img src="media/screen.png" alt="ASL Example" width="400"/>  
 # ASL letter recognition with LSTM and Streamlit
 This project is a real-time American Sign Language (ASL) letter recognition system built using:
 1. MediaPipe for feature extraction
@@ -21,3 +22,4 @@ pip install -r requirements.txt
 
 ## Run the app
 streamlit run app.py
+[▶️ Click to watch the demo](media/tutorial.mp4)
