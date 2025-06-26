@@ -1,5 +1,4 @@
-
-![Example Image](media/screen.png)
+<img src="media/screen.png" alt="ASL Example" width="400"/>
 # ASL letter recognition with LSTM and Streamlit
 This project is a real-time American Sign Language (ASL) letter recognition system built using:
 1. MediaPipe for feature extraction
