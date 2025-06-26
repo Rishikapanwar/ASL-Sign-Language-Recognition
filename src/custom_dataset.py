@@ -1,16 +1,13 @@
-import os
 import torch
-from torch.utils.data import Dataset,  DataLoader
-from PIL import Image
-from feature_extraction import MediaPipe
-from configs import *
+from torch.utils.data import Dataset
+from utils import *
 
 
 class ASLDataset(Dataset):
-    def __init__(self, data_dir, extractor, transform=None, indices=None, limit_label=None, limit_count=None):
+    def __init__(self, data_dir, extractor, transform=None,  limit_label=None, limit_count=None):
         self.data_dir = data_dir
-        if indices is not None:
-            self.data = [self.data[i] for i in indices]
+        # if indices is not None:
+        #     self.data = [self.data[i] for i in indices]
         self.transform = transform
         self.extractor = extractor
 

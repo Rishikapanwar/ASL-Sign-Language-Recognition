@@ -8,7 +8,7 @@ index_to_label = [chr(i) for i in range(ord('A'), ord('Z') + 1)]+ ['del','nothin
 
 device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
 model = ASLLSTM()
-model.load_state_dict(torch.load(r'C:\Users\ypanw\PycharmProjects\PythonProject\checkpoints\asl_lstm.pth'))
+model.load_state_dict(torch.load(r'C:\Users\ypanw\PycharmProjects\PythonProject\checkpoints\asl_lstm_final.pth'))
 model.eval()
 model.to(device)
 
@@ -31,7 +31,14 @@ while cap.isOpened():
             pred = torch.argmax(logits, dim=1).item()
 
         # Map class index to letter (e.g., 0 = 'A', 1 = 'B', ..., 25 = 'Z', 26 = 'del', 27 = 'space', etc.)
-        label = chr(ord('A') + pred) if pred < 26 else f"Class {pred}"
+        index_to_label = {
+            **{i: chr(ord('A') + i) for i in range(26)},
+            26: 'del',
+            27: 'nothing',
+            28: 'space'
+        }
+
+        label = index_to_label.get(pred, f"Class {pred}")
         cv2.putText(frame_with_landmarks, f"Prediction: {label}", (10, 50),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 

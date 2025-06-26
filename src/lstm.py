@@ -2,7 +2,7 @@ import torch
 import os
 import torch.nn as nn
 from tqdm import tqdm
-from configs import checkpoints_dir
+from utils import checkpoints_dir
 import wandb
 
 class ASLLSTM(nn.Module):
@@ -79,5 +79,5 @@ def train(model, criterion, optimizer, train_loader, val_loader, epochs, print_f
                 wandb.log({"Pred:": predicted[:5].tolist()})
                 wandb.log({"True :": val_labels[:5].tolist()})
 
-    torch.save(model.state_dict(), os.path.join(checkpoints_dir, f"asl_lstm.pth"))
-    print(f"Model saved: asl_lstm.pth")
+    torch.save(model.state_dict(), os.path.join(checkpoints_dir, f"asl_lstm_final1.pth"))
+    print(f"Model saved: asl_lstm_final1.pth")

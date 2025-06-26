@@ -5,12 +5,13 @@ import cv2
 class MediaPipe():
     def __init__(self):
         self.mp_hands = mp.solutions.hands
-        self.hands = self.mp_hands.Hands(static_image_mode=True, max_num_hands=1)
+        self.hands = self.mp_hands.Hands(static_image_mode=True, max_num_hands=1, min_detection_confidence=0.5)
         self.mp_drawing = mp.solutions.drawing_utils
 
     def feature_extraction(self, img_path):
 
         image = cv2.imread(img_path)
+        # image = cv2.resize(image, (640, 480))
         if image is None:
             print(f"Warning: Could not load image {img_path}")
             return None
@@ -22,7 +23,7 @@ class MediaPipe():
 
         if results.multi_hand_landmarks is None:
             print(f"[INFO:] No hand landmarks found in {img_path}")
-            return None  # Skip image
+            # return None  # Skip image
 
             # Try/except block to be extra safe
         try:
