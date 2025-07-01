@@ -1,4 +1,4 @@
-<<<<<<< README.md
+
 <img src="media/screen.png" alt="ASL Example" width="400"/>  
 
 # ASL letter recognition with LSTM and Streamlit
