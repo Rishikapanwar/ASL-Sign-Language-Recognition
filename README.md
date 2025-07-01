@@ -1,3 +1,4 @@
+<<<<<<< README.md
 <img src="media/screen.png" alt="ASL Example" width="400"/>  
 
 # ASL letter recognition with LSTM and Streamlit
@@ -24,3 +25,4 @@ pip install -r requirements.txt
 ## Run the app
 streamlit run app.py
 [▶️ Click to watch the demo](media/tutorial.mp4)
+
