@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.0",
+  "startedAt":  "2025-06-24T09:55:59.336738Z",
+  "program":  "C:\\Users\\ypanw\\PycharmProjects\\PythonProject\\src\\main.py",
+  "codePath":  "src\\main.py",
+  "email":  "rpanwar639@gmail.com",
+  "root":  "C:\\Users\\ypanw\\PycharmProjects\\PythonProject\\src",
+  "host":  "rishu",
+  "executable":  "C:\\Users\\ypanw\\PycharmProjects\\PythonProject\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "main.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "126189826048",
+      "used":  "117836021760"
+    }
+  },
+  "memory":  {
+    "total":  "8352567296"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
